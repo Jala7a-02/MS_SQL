@@ -14,5 +14,7 @@
 --> displaying all branches
 ## git push 'RemoteName' 'BranchName'
 --> push the changes into the remote repo
+## git pull 'RemoteName' 'BranchName' --rebase
+--> pull the changes from the remote repo
 
 
