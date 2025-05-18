@@ -1,2 +1,2 @@
-# MS_SQL
-##Advanced SQL projects
+# Practicing GIT
+
